@@ -6,6 +6,7 @@ Code is currently a bit of an undocumented mess, if you want to get it up and ru
 
 # contributors
 
-Lucas Luitjes
-Aaron Heesakkers
-Justin Koningsberger
+- Lucas Luitjes
+- Aaron Heesakkers
+- Joachim Nolten
+- Justin Koningsberger
